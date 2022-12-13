@@ -2,10 +2,9 @@
 	"version": "1.0.0",
 	"compatibility": "2.9.0",
 
-	"id": "classic",
-	"name": "Meridius Classic",
-	"description": "Классическая цветовая схема Meridius",
-	"type": "color-scheme",
+	"id": "mytheme",
+	"name": "Моя тема",
+	"description": "Описание моей темы",
 
 	"modules": [],
 
@@ -15,7 +14,7 @@
     },
 
 	"author": {
-		"name": "PurpleHorrorRus",
-		"contact": "https://vk.com/id529592613"
+		"name": "Вася Пупкин, дизайнер Google",
+		"contact": "https://vk.com/id0"
 	}
 }
