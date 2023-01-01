@@ -1,20 +1,16 @@
 {
-	"version": "1.0.0",
-	"compatibility": "2.9.0",
-
-	"id": "mytheme",
-	"name": "Моя тема",
-	"description": "Описание моей темы",
-
-	"modules": [],
-
-	"accent": {
+    "version": "1.0.0",
+    "compatibility": "2.9.0",
+    "id": "mytheme",
+    "name": "Моя тема",
+    "description": "Описание моей темы",
+    "modules": [],
+    "accent": {
         "primary": "#141414",
         "secondary": "#E9003F"
     },
-
-	"author": {
-		"name": "Вася Пупкин, дизайнер Google",
-		"contact": "https://vk.com/id0"
-	}
+    "author": {
+        "name": "Вася Пупкин, дизайнер Google",
+        "contact": "https://vk.com/id0"
+    }
 }

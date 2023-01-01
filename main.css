@@ -1,5 +1,12 @@
-html.classic-mode {
+html.mytheme-mode {
     --primary: #141414;
+
+    --secondary: #E9003F;
+    --secondary-hover: #c40034;
+    --secondary-opacity-half: #E9003F80;
+    --secondary-hover-opacity: #E9003F40;
+    --secondary-disabled: #99002980;
+
     --backdrop: #0e0e0e;
 
     --titlebar: #080808;
@@ -20,12 +27,6 @@ html.classic-mode {
     --navigation-text: #ffffff;
     --navigation-select: #ffffff26;
 
-    --secondary: #E9003F;
-    --secondary-hover: #c40034;
-    --secondary-opacity-half: #E9003F80;
-    --secondary-hover-opacity: #E9003F40;
-    --secondary-disabled: #99002980;
-
     --border: #202020;
     --borderWidth: 2px;
 
@@ -36,6 +37,7 @@ html.classic-mode {
 
     --text: #ffffff;
     --small-text: #aaaeb4;
+    --buttons-text: #ffffff;
 
     --song-performer: #9a9a9a;
     --song-title: #e2e5e9;
@@ -60,8 +62,6 @@ html.classic-mode {
     --links-active: #ffffff;
     --links-hover: #ffffff;
 
-    --buttons-text: #ffffff;
-
     --tooltip: var(--secondary);
     --tooltip-text: var(--text);
 
@@ -73,6 +73,6 @@ html.classic-mode {
     --skeleton-highlight: rgba(22, 22, 22, var(--alpha));
 }
 
-html.classic-mode.acryl {
+html.mytheme-mode.acryl {
     --song-playing: #10101075;
 }
