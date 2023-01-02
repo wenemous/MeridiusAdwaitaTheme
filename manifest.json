@@ -4,6 +4,11 @@
     "id": "mytheme",
     "name": "Моя тема",
     "description": "Описание моей темы",
+    "repository": {
+        "username": "TopDesignerInTheWorld",
+        "name": "mytheme",
+        "branch": "main"
+    },
     "modules": [],
     "accent": {
         "primary": "#141414",
