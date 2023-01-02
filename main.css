@@ -9,8 +9,7 @@ html.mytheme-mode {
 
     --backdrop: #0e0e0e;
 
-    --titlebar: #080808;
-    --titlebar-border: var(--border);
+    --titlebar: var(--primary);
 
     --scroll: #545454;
     --scroll-width: 12px;
@@ -19,7 +18,6 @@ html.mytheme-mode {
     --logo: #ffffff;
 
     --left: #0e0e0e;
-    --left-border: #202020;
     --left-queue: #0e0e0e;
     --left-icons: #ffffff;
 
@@ -37,7 +35,6 @@ html.mytheme-mode {
 
     --text: #ffffff;
     --small-text: #aaaeb4;
-    --buttons-text: #ffffff;
 
     --song-performer: #9a9a9a;
     --song-title: #e2e5e9;
@@ -62,6 +59,8 @@ html.mytheme-mode {
     --links-active: #ffffff;
     --links-hover: #ffffff;
 
+    --buttons-text: #ffffff;
+
     --tooltip: var(--secondary);
     --tooltip-text: var(--text);
 
@@ -73,6 +72,8 @@ html.mytheme-mode {
     --skeleton-highlight: rgba(22, 22, 22, var(--alpha));
 }
 
-html.mytheme-mode.acryl {
+html.classic-mode.acryl {
     --song-playing: #10101075;
+    --backdrop: #0a0a0ad9 !important;
+    --settings-view: #1d1d1dd9 !important;
 }
