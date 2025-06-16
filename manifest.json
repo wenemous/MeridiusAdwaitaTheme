@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
-    "compatibility": "2.9.0",
-    "id": "mytheme",
-    "name": "Моя тема",
-    "description": "Описание моей темы",
+    "version": "0.0.1",
+    "compatibility": "3.2.1",
+    "id": "MeridiusAdwaitaTheme",
+    "name": "Adwaita",
+    "description": "Meridius theme with Adwaita colors.",
     "repository": {
-        "username": "TopDesignerInTheWorld",
-        "name": "mytheme",
+        "username": "wenemous",
+        "name": "MeridiusAdwaitaTheme",
         "branch": "main"
     },
     "modules": [],
@@ -24,7 +24,7 @@
         }
     },
     "author": {
-        "name": "Вася Пупкин, дизайнер Google",
-        "contact": "https://vk.com/id0"
+        "name": "Wenemous Turnip",
+        "contact": "https://t.me/wenemous"
     }
 }
